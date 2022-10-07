@@ -1,0 +1,5 @@
+numpy==1.23.1
+pandas 
+regex
+nltk==3.7
+streamlit 
