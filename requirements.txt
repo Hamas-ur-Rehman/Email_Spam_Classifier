@@ -3,3 +3,5 @@ pandas
 regex
 nltk==3.7
 streamlit 
+joblib
+scikit-learn 
