@@ -60,4 +60,4 @@ Demo          |  Scan to see yourself
 ## Advantages
 No more Spam         |  Benefits
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/47780362/194687311-e4cf090a-5eda-41f3-94a8-1c508e499177.png)|- It is very effective and is also adaptive, so hard to fool. Based on text classification methods. Phenomenally accurate. Learns new spammer tactics automatically. Adapt to changing spam. It protects you
+![Spare_a_thought_for_your_Email_Spam_Filter](https://user-images.githubusercontent.com/47780362/194687406-58b11470-d757-479d-ba2f-230d56202b35.gif)|- It is very effective and is also adaptive, so hard to fool. Based on text classification methods. Phenomenally accurate. Learns new spammer tactics automatically. Adapt to changing spam. It protects you
