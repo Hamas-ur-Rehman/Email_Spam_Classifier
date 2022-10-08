@@ -41,7 +41,7 @@ Algorithm comparison graph          |  Details
 
 ROC Curve        |  Model Evaluation
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/47780362/194687025-9317a81d-68fb-4494-bb41-1c233ce2188a.png)  | After training and finding the best parameters we were able to get 90.07 %  accuracy on our Test data
+![image](https://user-images.githubusercontent.com/47780362/194687025-9317a81d-68fb-4494-bb41-1c233ce2188a.png)  | After training and finding the best parameters we were able to get `90.07 %`  accuracy on our Test data
 
 Confusion Matrix        |  Classification Report
 :-------------------------:|:-------------------------:
